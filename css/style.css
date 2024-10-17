@@ -42,6 +42,10 @@ body {
   margin: 120px auto;
 }
 
+.card img {
+  display: block;
+}
+
 .card main {
   padding: 24px 16px;
 }
